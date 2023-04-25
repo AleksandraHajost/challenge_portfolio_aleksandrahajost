@@ -48,7 +48,7 @@ Znalezione błędy:
 22. W panelu "Dodaj gracza" w sekcji "Wzrost" można wpisać tekst "e" - zablokowac wpisywanie tekstu.
 23. W panelu "Dodaj gracza" w sekcji "Link do YouTube" uniemożliwić wpisywanie innych treści niż adres URL.
 24. W panelu "Dodaj gracza" w sekcji "Dodaj język" dodac listę rozwijaną z językami.
-25. W panelu "Dodaj gracza" w sekcji "Dodaj język" unimożliwić wpisywanie cyfr, znaków specjalnych ($#%#$).
+25. W panelu "Dodaj gracza" w sekcji "Dodaj język" unimożliwić wpisywanie cyfr, znaków specjalnych.
 26. W panelu "Dodawanie meczu" w sekcji "Data" uniemożliwić wpisywanie daty późniejszej niż dzień zapisu (dziś).
 27. W panelu "Dodawanie meczu" w sekcji "Kolor koszulki" uniemożliwić wpisywanie cyfr, znaków szczególnych jedynie tekst, ewentualnie dodać listę rozwijaną z ustalonymi wartościami.
 28. W panelu "Dodawanie meczu" w sekcji "Czas gry" można wpisać tekst "e" - zablokowac wpisywanie tekstu.
@@ -61,3 +61,41 @@ Znalezione błędy:
 35. W panelu "Dodawanie meczu" w sekcji "Web match" uniemożliwić wpisywanie treśli innych niż Adres URL.
 36. W panelu "Dodawanie meczu" w sekcji "General" sprecyzować co powinno się tam znaleźć.
 37. W panelu "gracze" lepiej wyglądałoby domyślne formatowanie danych bez względu na sposób ich wprowadzenia (np. ustalone od górnie Imie, Nazwisko, Pozycja, Klub z dużej litery reszta małe.
+38. Page has no manifest <link> URL
+39. Does not register a service worker that controls page and start_url
+40. Is not configured for a custom splash screenFailures: No manifest was fetched.
+41. Does not set a theme color for the address bar.Failures: No manifest was fetched.
+42. Manifest doesn't have a maskable iconNo manifest was fetched
+43. Document does not have a meta description
+44. Fonts with font-display: optional are preloaded
+45. [accesskey] values are unique
+46. button, link, and menuitem elements have accessible names
+47. ARIA input fields have accessible names
+48. ARIA meter elements have accessible names
+49. ARIA progressbar elements have accessible names
+50. [role]s have all required [aria-*] attributes
+51. Elements with an ARIA [role] that require children to contain a specific [role] have all required children.
+52. [role]s are contained by their required parent element
+53. [role] values are valid
+54. ARIA toggle fields have accessible names
+55. ARIA tooltip elements have accessible names
+56. ARIA treeitem elements have accessible names
+57. The page contains a heading, skip link, or landmark region
+58. Definition list items are wrapped in dl elements
+59. [id] attributes on active, focusable elements are unique
+60. ARIA IDs are unique
+61. No form fields have multiple labels
+62. frame or iframe elements have a title
+63. Image elements have [alt] attributes
+64. input type="image" elements have [alt] text
+65. Form elements have associated labels
+66. Lists contain only li elements and script supporting elements (script and template).
+67. List items li are contained within ul, ol or menu parent elements
+68. The document does not use meta http-equiv="refresh"
+69. object elements have alternate text
+70. Cells in a <table> element that use the [headers] attribute refer to table cells within the same table.
+71. th elements and elements with role="columnheader"/"rowheader" have data cells they describe.
+72. [lang] attributes have a valid value
+73. video elements contain a <track> element with [kind="captions"]
+74. Heading elements are not in a sequentially-descending order - "Ostatnio stworzony gracz" na "Strona główna"
+75. Poprawić Performance strony First Contentful Paint 3.9s, Speed Index 6.6s, Largest Contentful Paint 4.0s
