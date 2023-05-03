@@ -99,3 +99,8 @@ Znalezione błędy:
 73. video elements contain a <track> element with [kind="captions"]
 74. Heading elements are not in a sequentially-descending order - "Ostatnio stworzony gracz" na "Strona główna"
 75. Poprawić Performance strony First Contentful Paint 3.9s, Speed Index 6.6s, Largest Contentful Paint 4.0s
+# TASK 2
+
+## Subtask 3 Po co piszemy test case’y?
+
+_Test casy piszemy żeby zweryfikować zakres testów aplikacji. Sprawdzić, czy aplikacja działa zarówno tak jak firma chce żeby działała oraz przedewszystkim żeby działała tak jak klinet chce oraz tak jak potrzebuje na miarę swojej sytuacji. Przypadki testowe piszemy także po to aby aplikacja wraz z rozwojem i nowymi wersjami nadal była funkcjonalna i aby było jak najmniej nieprzyjemnych wrażeń użytkownika w zetknięciu się z naszym projektem. Test casy są pisane również w celu testowania aplikacji przez więcej niż 1 i tą samą osobę na przestrzeni czasu bez zbędnego wprowadzenia w projekt._
