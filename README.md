@@ -104,3 +104,9 @@ Znalezione błędy:
 ## Subtask 3 Po co piszemy test case’y?
 
 _Test casy piszemy żeby zweryfikować zakres testów aplikacji. Sprawdzić, czy aplikacja działa zarówno tak jak firma chce żeby działała oraz przedewszystkim żeby działała tak jak klinet chce oraz tak jak potrzebuje na miarę swojej sytuacji. Przypadki testowe piszemy także po to aby aplikacja wraz z rozwojem i nowymi wersjami nadal była funkcjonalna i aby było jak najmniej nieprzyjemnych wrażeń użytkownika w zetknięciu się z naszym projektem. Test casy są pisane również w celu testowania aplikacji przez więcej niż 1 i tą samą osobę na przestrzeni czasu bez zbędnego wprowadzenia w projekt._
+
+  # TASK 3
+
+## Subtask 2 & 3
+__[Subtask 2 GoogleDrive](https://docs.google.com/spreadsheets/d/1vevT8rdbsilyGd9dm00crWbtseSPT6DUAycOVXLRG3I/edit?usp=sharing)__
+__[Subtask 3 GoogleDrive](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB55BCzWNbdy_YNCCjdS9J7DgjFUI3I/edit?usp=sharing)__
