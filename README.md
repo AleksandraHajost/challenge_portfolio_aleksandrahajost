@@ -115,7 +115,12 @@ __[Subtask 3 GoogleDrive](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB
 # TASK 4
 ## Subtask 3 - Do czego służy ta aplikacja?
 1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+Aplikacja służy do sprzedawania/oddwania/kupowania przedmiotów, szukania i oferowania pracy oraz mieszkań/domów/usług. Celem aplikacji jest powiązanie i skontaktowanie ze sobą kupca ze sprzedawcą.
 2. Kto ma być użytkownikiem końcowym aplikacji?
+Końcowym użytkownikiem aplikacji ma być kupiec i/lub sprzedawca.
 3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
-4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+Moim zdaniem aplikacja jest user friendly. Po ikonach łatwo można dojśc do wniosku gdzie znaleźć interesujące nas funckjonalności. Dodatkowo interface jest przyjemny dla oka, ujednolicony i nie rozprasza przy przeglądaniu ogłoszeń - które ze względu na zdjęcia są już i tak bardzo kolorowe. Kolorowe ikony w sekcji "Kategorie" odbiegają stylem od innych ikon, natomiast stanowi to ułatwienie w przeszukiwaniu kategorii, dzięki czemu nie jest konieczne czytanie każdego tekstu z osobna tylko wizualnie możemy szybko znaleźć interesującą nas kategorię. 
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność?
+Dodałabym dodatkowo sortowanie alfabetyczne - po wprowadzeniu wielu filtrów można bardzo zawęzić listę ogłoszeń, a dodartkowo dodając sortowanie alfabetyczne możnaby ułatywić sobie wyszukiwanie.
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
+Testowanie aplikacji natywnej jest bardziej poręczne i przyjemniejsze do samego testowania, natomiast jesli chodzi o wprowadzanie screenshotów do raport bug jest to bardziej skomplikowane. 
