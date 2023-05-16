@@ -111,3 +111,11 @@ _Test casy piszemy żeby zweryfikować zakres testów aplikacji. Sprawdzić, czy
 __[Subtask 2 GoogleDrive](https://docs.google.com/spreadsheets/d/1vevT8rdbsilyGd9dm00crWbtseSPT6DUAycOVXLRG3I/edit?usp=sharing)__
 
 __[Subtask 3 GoogleDrive](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB55BCzWNbdy_YNCCjdS9J7DgjFUI3I/edit?usp=sharing)__
+  
+# TASK 4
+## Subtask 3 - Do czego służy ta aplikacja?
+1. Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
+2. Kto ma być użytkownikiem końcowym aplikacji?
+3. Czy według Ciebie aplikacja jest user friendly? (Przyjazna dla użytkownika- np. wchodzisz do aplikacji i szybko łapiesz do czego służą przyciski. Poczytaj na ten temat w internecie- co to znaczy, że aplikacja jest przyjazna dla użytkownika)
+4. Jak byś usprawnił aplikację? Co byś w niej poprawił. Czy masz jakiś pomysł na dodatkową funkcjonalność? (Żeby nie było: nie jest to aplikacja przy której pracuję, takie pytania pojawiają się na rozmowach rekrutacyjnych dlatego dobrze jest to przećwiczyć :D )
+5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
