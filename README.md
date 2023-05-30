@@ -124,3 +124,12 @@ Moim zdaniem aplikacja jest user friendly. Po ikonach łatwo można dojśc do wn
 Dodałabym dodatkowo sortowanie alfabetyczne - po wprowadzeniu wielu filtrów można bardzo zawęzić listę ogłoszeń, a dodartkowo dodając sortowanie alfabetyczne możnaby ułatywić sobie wyszukiwanie.
 5. Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Testowanie aplikacji natywnej jest bardziej poręczne i przyjemniejsze do samego testowania, natomiast jesli chodzi o wprowadzanie screenshotów do raport bug jest to bardziej skomplikowane. 
+
+# TASK 6
+  ## Subtask 1 
+  
+  ## Subtask 2
+  12/15 poprawnych odpowiedzi
+  
+  ## Subtask 3
+  __[My porfolio](https://github.com/AleksandraHajost/portfolio)__
