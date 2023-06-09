@@ -55,8 +55,8 @@ Testowanie aplikacji natywnej jest bardziej poręczne i przyjemniejsze do samego
 - Wyświetl imię i nazwisko aktora o id 4 i tytuł filmu, w którym zagrał
 - A gdzie nasza HONIA!? Dodaj do tabeli customers nową krotkę, gdzie customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com oraz pseudonym = Hoa
 
-  ## Subtask 2
-  12/15 poprawnych odpowiedzi
+## Subtask 6.2
+12/15 poprawnych odpowiedzi
   
-  ## Subtask 3
-  __[My porfolio](https://github.com/AleksandraHajost/portfolio)__
+## Subtask 6.3
+__[My porfolio](https://github.com/AleksandraHajost/portfolio)__
