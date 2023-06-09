@@ -15,20 +15,41 @@ _Mój profil na __[LinkedIn](https://www.linkedin.com/in/aleksandra-hajost/)__ j
 
 __[Exploratory tests for futbolkolektyw](https://drive.google.com/file/d/1rgx4AAMHKV_aqfXAkxWkq59sN5gCZhRS/view?usp=sharing)__
 
-# TASK 2
+# TASK 2 Test cases
+
+## Subtask 2.1 Pisanie przypadków testowych na podstawie User Story.
+
+Trzy test case'y dla dwóch User Story [Subtask 1 - Test cases for futbolkolektyw](https://docs.google.com/spreadsheets/d/12Y3C2DPMvzY1Ahq2t-dglmQ1jfIrMoFvvONZxATkz-U/edit?usp=sharing)
+
+## Subtask 2.2 Pisanie przypadków testowych na podstawie “własnych doświadczeń.
+
+20 dodatkowych testcase'ów do zadania [Subtask 2 - Test cases for futbolkolektyw](https://docs.google.com/spreadsheets/d/1pETvo7oHjo1tZYczO6mKfGFchigH0oMz6o8B1Kwu3-M/edit?usp=drive_link)
 
 ## Subtask 2.3 Po co piszemy test case’y?
 
 _Test casy piszemy żeby zweryfikować zakres testów aplikacji. Sprawdzić, czy aplikacja działa zarówno tak jak firma chce żeby działała oraz przedewszystkim żeby działała tak jak klinet chce oraz tak jak potrzebuje na miarę swojej sytuacji. Przypadki testowe piszemy także po to aby aplikacja wraz z rozwojem i nowymi wersjami nadal była funkcjonalna i aby było jak najmniej nieprzyjemnych wrażeń użytkownika w zetknięciu się z naszym projektem. Test casy są pisane również w celu testowania aplikacji przez więcej niż 1 i tą samą osobę na przestrzeni czasu bez zbędnego wprowadzenia w projekt._
 
-  # TASK 3
+## Subtask 2.4 Pisanie przypadków testowych na podstawie “własnych doświadczeń" dla aplikacji [Pick Eat Up](https://pickeatup.io/)
 
-## Subtask 3.2 & 3.3
-__[Subtask 2 GoogleDrive](https://docs.google.com/spreadsheets/d/1vevT8rdbsilyGd9dm00crWbtseSPT6DUAycOVXLRG3I/edit?usp=sharing)__
+[Subtask 4 - Test cases for Pick Eat Up](https://docs.google.com/spreadsheets/d/1D3Jha5h-0SV7wjwvVoZ-sSjUDMOPqjvBV-td_pU1ftQ/edit?usp=drive_link)
 
-__[Subtask 3 GoogleDrive](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB55BCzWNbdy_YNCCjdS9J7DgjFUI3I/edit?usp=sharing)__
+  # TASK 3 Bug reporting
+
+## Subtask 3.2 & 3.3 Testing according to test plans, bug reporting and bug report 
+__[Subtask 2 Testing according to test plans for futbolkolektyw](https://docs.google.com/spreadsheets/d/1vevT8rdbsilyGd9dm00crWbtseSPT6DUAycOVXLRG3I/edit?usp=sharing)__
+
+__[Subtask 3 Bug report for futbolkolektyw](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB55BCzWNbdy_YNCCjdS9J7DgjFUI3I/edit?usp=sharing)__
+
+## Subtask 3.4 Exploration testing session according to different tours
+
+__[Subtask 4 Testing according to different tours for futbolkolektyw](https://docs.google.com/spreadsheets/d/14Nvhynlyjr9aavN3HgATM08YwGy8uLr-eKkuK2_0Ztk/edit?usp=sharing)__
   
-# TASK 4
+# TASK 4 Mobile application testing
+## Subtask 4.2 - Testowanie eksploracyjne i raportowanie błędów
+
+__[Subtask 2 Exploratory testing and bug reporting for OLX](https://docs.google.com/spreadsheets/d/1fxyQlES0bNrmUB55BCzWNbdy_YNCCjdS9J7DgjFUI3I/edit?usp=sharing)__
+
+
 ## Subtask 4.3 - Do czego służy ta aplikacja?
 - Do czego służy ta aplikacja? Jaki jest cel tej aplikacji?
 Aplikacja służy do sprzedawania/oddwania/kupowania przedmiotów, szukania i oferowania pracy oraz mieszkań/domów/usług. Celem aplikacji jest powiązanie i skontaktowanie ze sobą kupca ze sprzedawcą.
@@ -41,7 +62,14 @@ Dodałabym dodatkowo sortowanie alfabetyczne - po wprowadzeniu wielu filtrów mo
 - Jakie dostrzegasz różnice pomiędzy testowaniem aplikacji internetowej, a natywnej?
 Testowanie aplikacji natywnej jest bardziej poręczne i przyjemniejsze do samego testowania, natomiast jesli chodzi o wprowadzanie screenshotów do raport bug jest to bardziej skomplikowane. 
 
-# TASK 6
+# TASK 5 SQL
+
+## Subtask 1 A short course on the basics of SQL
+Poznane operatory SQL:
+- ...
+- ...
+
+# TASK 6 SQL
   ## Subtask 6.1 
 - Popełniłam błąd wpisując nazwisko Ani Miler – wpisałam Muler. Znajdź i zastosuj funkcję, która poprawi mój karkołomny błąd 🙈
 ![image](https://github.com/AleksandraHajost/challenge_portfolio_aleksandrahajost/assets/131389151/6772ab9c-51d7-4d83-9e51-66c119ccede4)
