@@ -99,6 +99,7 @@ Znalezione błędy:
 73. video elements contain a <track> element with [kind="captions"]
 74. Heading elements are not in a sequentially-descending order - "Ostatnio stworzony gracz" na "Strona główna"
 75. Poprawić Performance strony First Contentful Paint 3.9s, Speed Index 6.6s, Largest Contentful Paint 4.0s
+
 # TASK 2
 
 ## Subtask 3 Po co piszemy test case’y?
