@@ -1,6 +1,6 @@
-# TASK 1
+ose .# TASK 1 Exploratory tests
 
-## Subtask 1
+## Subtask 1 Test wiedzy  
 
 _7 punktów_
 
